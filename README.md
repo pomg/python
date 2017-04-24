@@ -17,3 +17,6 @@ Deactivate the virtual environment (the 'deactivate' command is available during
 
     deactivate
   
+# crack_ssh.py
+
+    python3.5 crack_ssh.py -H <target host> -u <user> -F <password list>
